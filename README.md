@@ -1,4 +1,4 @@
-# 📰 Fake News Detection using PassiveAggressiveClassifier
+# 📰 Fake vs Real News Predictor System
 
 A machine learning project that classifies news articles as real or fake based on text content. Built with TF-IDF vectorization and PassiveAggressiveClassifier, this system allows real-time user input for headline validation.
 
