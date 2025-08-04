@@ -29,4 +29,8 @@ This project merges labeled real and fake news datasets, trains a text classifie
 4. Trains PassiveAggressiveClassifier
 5. Prints accuracy and confusion matrix
 6. Accepts real-time news input and outputs prediction
+ ## 🗂️ Dataset Source
+This project uses the "Real and Fake News" dataset from Kaggle:  
+🔗 [https://www.kaggle.com/datasets/razanaqvi14/real-and-fake-news]
+I have downloaded`True.csv` and `Fake.csv` from Kaggle and place them in the project directory to run the model.
 
